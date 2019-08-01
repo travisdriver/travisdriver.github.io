@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "About"
-    url: /About/
+#  - title: "About"
+#    url: /About/
   - title: "CV/Resume"
     url: "/docs/travisdriver_cv.pdf" 
   # - title: "Sample Posts"
