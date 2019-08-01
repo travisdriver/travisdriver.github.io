@@ -113,7 +113,7 @@ author:
   location         : "Atlanta, Georgia"
   email            : #"travisdriver@gatech.edu"
   links:
-    - label: "Email"
+    - label: "travisdriver@gatech.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:travisdriver@gatech.edu
     - label: "Website"
