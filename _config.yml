@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Travis Driver"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Travis Driver"
+name                     : # "Travis Driver"
 description              : "An amazing website."
 url                      : "https://travisdriver.github.io/"
 baseurl                  : "/travisdriver.github.io" 
