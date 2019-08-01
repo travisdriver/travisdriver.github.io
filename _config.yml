@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Travis Driver"
+  name             : # "Travis Driver"
   avatar           : "/assets/images/cover_photo.jpg"
-  bio              : #"I am an **amazing** person."
+  bio              : # "I am an **amazing** person."
   location         : "Atlanta, Georgia"
   email            : #"travisdriver@gatech.edu"
   links:
