@@ -1,6 +1,12 @@
 layout: sidebar
 style: light
 
+sidebar:
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
+
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
