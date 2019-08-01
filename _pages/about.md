@@ -1,6 +1,9 @@
 ---
 layout: single
-title: "About Me"
+title: "About"
+permalink: /About/
+comments: true
+author_profile: true
 ---
 
 # About
