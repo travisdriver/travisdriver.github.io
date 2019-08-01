@@ -1,11 +1,8 @@
 # Name of website
 title: Travis Driver
-layout: default
+layout: sidebar
 
 # Short description of your site
 #description: A virtual proof that I'm awesome
 
 theme: jekyll-theme-minimal
-
-social_media:
-  linkedin: drivert
