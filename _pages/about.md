@@ -6,6 +6,4 @@ comments: true
 author_profile: true
 ---
 
-# About
-
 About me...

@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "CV/Resume"
-    url: "/docs/travisdriver_cv.pdf" 
   - title: "About"
     url: /About/
+  - title: "CV/Resume"
+    url: "/docs/travisdriver_cv.pdf" 
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
