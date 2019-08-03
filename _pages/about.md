@@ -1,7 +1,5 @@
 ---
 layout: single
-permalink: /About/
-comments: true
 author_profile: true
 ---
 
