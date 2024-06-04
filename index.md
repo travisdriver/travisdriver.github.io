@@ -10,6 +10,6 @@ My research interests include computer vision, 3D perception, and navigation wit
 
 ## Selected Publications
 
-<table width="100%" border="0" cellpadding="5"><tr><td align="center" valign="center" width="130" height="130">
+<table width="100%" border="0" cellpadding="5"><tr><td align="center" valign="center" width="170" height="170">
 <img src="https://i.imgur.com/OCkPV6O.jpg"/></td>
 <td align="left" valign="center" height="1"><strong>AstroVision: Towards Autonomous Feature Detection and Description for Missions to Small Bodies Using Deep Learning</strong><br /><a href="https://travisdriver.github.io/">Travis Driver</a>, <a href="https://robotics.umich.edu/profile/katherine-skinner/">Katherine Skinner</a>, <a href="https://www.linkedin.com/in/mehregan-dor-2b0b2955/">Mehregan Dor</a>, and <a href="https://dcsl.gatech.edu/tsiotras.html">Panagiotis Tsiotras</a><br />Acta Astronautica, 2023<br />[<a href="https://www.sciencedirect.com/science/article/pii/S0094576523000103">paper</a>, <a href="https://github.com/astrovision">code</a>]</td></tr>
