@@ -2,8 +2,10 @@
 main:
 #  - title: "About"
 #    url: /About/
-  - title: "CV/Resume"
+  - title: "CV"
     url: "/docs/travisdriver_cv.pdf" 
+  - title: "Publications"
+    url: "https://scholar.google.com/citations?user=z6no7WsAAAAJ&hl"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
