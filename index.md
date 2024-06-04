@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 ---
 
-I am a Robotics PhD student in the [Dynamics and Control Systems Laboratory](http://dcsl.gatech.edu/) at the Georgia Institute of Technology being advised by [Professor Panagiotis Tsiotras](http://dcsl.gatech.edu/tsiotras.html). I received my BS in Computational Engineering from The University of Texas at Austin in 2019. 
+I am a Robotics PhD student in the [Dynamics and Control Systems Laboratory](http://dcsl.gatech.edu/) at the Georgia Institute of Technology being advised by [Professor Panagiotis Tsiotras](http://dcsl.gatech.edu/tsiotras.html). My research is supported by a [NASA Space Technology Graduate Research Opportunity](https://www.nasa.gov/nasa-space-technology-graduate-research-opportunities-nstgro/). I received my BS in Computational Engineering from The University of Texas at Austin in 2019. 
 
 My research interests include computer vision, 3D perception, and navigation with a specific interest in aerospace applications. For more information, see [my CV](https://travisdriver.github.io/docs/travisdriver_cv.pdf). 
 
@@ -15,7 +15,7 @@ My research interests include computer vision, 3D perception, and navigation wit
 <td align="left" valign="center" height="1"><strong>Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach</strong><br />
 <a href="https://travisdriver.github.io/">Travis Driver</a>, Andrew Vaughan, <a href="https://www-robotics.jpl.nasa.gov/who-we-are/people/yang_cheng/">Yang Cheng</a>, <a href="https://www-robotics.jpl.nasa.gov/who-we-are/people/adnan_ansar/">Adnan Ansar</a>, <a href="https://ae.gatech.edu/directory/person/john-christian">John Christian</a>, and <a href="https://dcsl.gatech.edu/tsiotras.html">Panagiotis Tsiotras</a><br />
 <i>SciTech</i>, 2024 <strong>(Best Student Paper Finalist)</strong><br />
-[<a href="https://www.sciencedirect.com/science/article/pii/S0094576523000103">paper</a>, <a href="https://github.com/astrovision">code</a>]</td></tr>
+[<a href="https://arc.aiaa.org/doi/10.2514/6.2024-0513">paper</a>, <a href="https://huggingface.co/datasets/travisdriver/spc-factor-results">code</a>]</td></tr>
 
 <table width="100%" border="0" cellpadding="5"><tr><td align="center" valign="center" width="150" height="150">
 <img src="https://i.imgur.com/OCkPV6O.jpg"/></td>
